@@ -9,6 +9,6 @@ I'm looking for my 3rd Internship for Summer 2025
 Past Internships: 
 * Ubisoft Montreal : Tools Programmer -C# -Javascript                  (2023)
 * Ubisoft Québec   : Tools Programmer (Backend) -Go -javascript  (2024)
-* 
+* Coveo            : Machine Learning -python -scala (2025)
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=CharlesPoulin&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
