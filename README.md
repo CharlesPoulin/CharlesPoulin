@@ -11,4 +11,4 @@ Past Internships:
 * Coveo            : Machine Learning -python -scala             (Summer 2025)
 
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=CharlesPoulin&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats-inky-five.vercel.app?user=CharlesPoulin)](https://git.io/streak-stats)
