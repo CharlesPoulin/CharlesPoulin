@@ -8,7 +8,7 @@ Software engineer intern in Machine Learning Field
 Past Internships: 
 * Ubisoft Montreal : Tools Programmer -C# -Javascript            (Summer 2023)
 * Ubisoft Québec   : Tools Programmer (Backend) -Go -javascript  (Summer 2024)
-* Coveo            : Machine Learning -python -scala             (Summer 2025)
+* Coveo            : Machine Learning -Python -Scala             (Summer 2025)
 
 
 [![GitHub Streak](https://github-readme-streak-stats-inky-five.vercel.app?user=CharlesPoulin)](https://git.io/streak-stats)
