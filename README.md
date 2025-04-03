@@ -1,6 +1,6 @@
 ### Hey 👋 i'm Charles
 
-Software engineer intern in Machine Learning Field
+Software engineer intern in Machine Learning
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesPoulin&hide=html,css)
 ![Top language](https://github-readme-stats.vercel.app/api?username=CharlesPoulin&show_icons=true&count_private=true&line_height=40)
