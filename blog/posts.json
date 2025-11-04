@@ -1,0 +1,14 @@
+[
+    {
+        "slug": "welcome",
+        "title": "Welcome to My Blog",
+        "date": "2025-01-15",
+        "excerpt": "The beginning of something new. A simple place for thoughts, ideas, and stories."
+    },
+    {
+        "slug": "minimalism",
+        "title": "The Art of Minimalism",
+        "date": "2025-01-10",
+        "excerpt": "Less is more. Exploring how simplicity in design and life leads to clarity and focus."
+    }
+]
