@@ -1,7 +1,6 @@
 ### Hey 👋 i'm Charles
 
-Software engineer intern in Machine Learning
-
+Software engineering graduate from Quebec
 
 Past Internships: 
 * Ubisoft Montreal : -C# -Javascript                             (Summer 2023)
