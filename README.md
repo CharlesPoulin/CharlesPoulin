@@ -1,5 +1,5 @@
-<img src="./assets/banner.png" alt="Charles Poulin — LLM Platform Developer @ Coveo — Montréal, Québec" width="100%" />
+I like building LLM platforms and tools.
 
-<br />
+LLM Platform Developer @ Coveo · Montréal, Québec.
 
-[Website ↗](https://poulincharles.com) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/charles-poulin) &nbsp; · &nbsp; [GitLab ↗](https://gitlab.com/cpoulin)
+[Website](https://poulincharles.com) · [LinkedIn](https://www.linkedin.com/in/charles-poulin) · [GitLab](https://gitlab.com/cpoulin)
