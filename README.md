@@ -1,8 +1,5 @@
-### Hey 👋 i'm Charles
+<img src="./assets/banner.png" alt="Charles Poulin — LLM Platform Developer @ Coveo — Montréal, Québec" width="100%" />
 
-Software engineering graduate from Quebec
+<br />
 
-Past Internships: 
-* Ubisoft Montreal : -C# -Javascript                             (Summer 2023)
-* Ubisoft Québec   : (Backend) -Go -Javascript                   (Summer 2024)
-* Coveo            : Machine Learning -Python -Scala             (Summer 2025)
+[Website ↗](https://poulincharles.com) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/charles-poulin) &nbsp; · &nbsp; [GitLab ↗](https://gitlab.com/cpoulin)
